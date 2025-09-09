@@ -1,2 +1,2 @@
-# proptimizer
-extension to optimize prompt and web to store template prompt
+# Proptimizer extension
+Extension to optimize prompt and web to store template prompt
